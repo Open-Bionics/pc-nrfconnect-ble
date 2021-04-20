@@ -9,7 +9,8 @@
 
 ## Installation
 
-Ensure this repository is saved within `C:\Users\<username>\.nrfconnect-apps\local\`.
+1. Ensure this repository is saved within `C:\Users\<username>\.nrfconnect-apps\local\`.
+2. Follow the *Compiling* steps from here https://nordicsemiconductor.github.io/pc-nrfconnect-docs/app_development
 
 See the [InfoCenter](https://infocenter.nordicsemi.com/index.jsp?topic=%2Fstruct_nrftools%2Fstruct%2Fnrftools_nrfconnect.html) pages for information on how to install the application.
 
